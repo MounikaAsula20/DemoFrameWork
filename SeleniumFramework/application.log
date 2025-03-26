@@ -1,0 +1,18 @@
+2025-03-26 10:20:45 [ INFO ] - Initializing Extent Reports...
+2025-03-26 10:20:46 [ INFO ] - Initializing WebDriver for browser: chrome
+2025-03-26 10:20:46 [ INFO ] - Setting up WebDriver for browser: chrome
+2025-03-26 10:20:48 [ INFO ] - Browser is launched and navigated to: https://www.britinsurance.com/
+2025-03-26 10:20:49 [ INFO ] - waiting for Accept Cookies to load on WebPage
+2025-03-26 10:20:49 [ INFO ] - clicked on: Accept Cookies
+2025-03-26 10:20:52 [ INFO ] - waiting for waiting for Search Button... to load on WebPage
+2025-03-26 10:20:53 [ INFO ] - waiting for Search Button to load on WebPage
+2025-03-26 10:20:53 [ INFO ] - clicked on: Search Button
+2025-03-26 10:20:53 [ INFO ] - waiting for Serach Input Field to load on WebPage
+2025-03-26 10:20:53 [ INFO ] - Entered inputText text into : Serach Input Field
+2025-03-26 10:20:54 [ INFO ] - Verifying Search Results count is Matched or not...
+2025-03-26 10:20:54 [ INFO ] - Verified Search Results count is Matched.
+2025-03-26 10:20:54 [ INFO ] - Verifying Search Results contain Interim results for the six months ended 30 June 2022 or not...
+2025-03-26 10:20:54 [ INFO ] - Verified Search Results contain Interim results for the six months ended 30 June 2022 item in the list
+2025-03-26 10:20:54 [ INFO ] - verifySearchFunctionality passed successfully!
+2025-03-26 10:20:55 [ INFO ] - Browser closed successfully.
+2025-03-26 10:20:55 [ INFO ] - Flushing Extent Reports...
